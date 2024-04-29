@@ -4,7 +4,7 @@ Our project mainly describes the data lifecycle of Data used in Crime and Safety
 Areas. The project focuses on addressing the rise in criminal activity in residential neighborhoods,
 with a specific emphasis on ensuring safety and security. We have taken the Static Dataset from
 https://catalog.data.gov/dataset/crime-data-from-2010-to-2019 and Streaming Dataset from
-https://catalog.data.gov/dataset/crime-data-from-2020-to-present. We have a started a brief
+https://catalog.data.gov/dataset/crime-data-from-2020-to-present. We have started a brief
 analysis into Crime Statistics from 2010 to the present using Static Data sets and Streaming Datasets
 from sources such as Data.gov.
 
